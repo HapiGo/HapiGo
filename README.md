@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**HapiGo/HapiGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 1️⃣ 自我介绍
+HapiGo 是一款新式的 macOS 启动器。其最大的优势是根据中国人的拼音使用习惯，开发了文件拼音搜索，输入的效率和流畅度堪比英文用户。此外，我们也专门优化了全键盘操作。当按下 Command 或 Option 键时，界面都有快捷键提示。相信各位技术范儿大牛都能有比较良好的操作体验。
 
-Here are some ideas to get you started:
+下面分享部分 HapiGo 的优势功能供大家参考：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2️⃣ 使用拼音搜索应用/文件/书签
+如上文所说，我们为中文用户做了很多优化，比如：文件/应用/书签的即时拼音搜索。目前大部分启动器都使用 了 Spotlight 的搜索，拼音搜索总是不健全。而我们是独家自己开发了搜索功能，所以可以支持完全的拼音文件搜索。此外，我们还添加了常见格式文件的预览，对于大家电脑里最多的源码文件，还提供语法高亮。
+
+![文件搜索](https://imgur.com/R3bwIyG.png "文件搜索")
+
+![书签搜索](https://imgur.com/BaPgtPh.png "")
+
+很多开发者都喜欢打开几十个网页，以方便查阅资料或阅读文档。但是，这时候在做窗口切换和标签查阅就有点麻烦。HapiGo 针对 Safari、Chrome、Edge 提供已开标签直搜（支持拼音、标题、URL 搜索），这样就可以让我们快速定位标签，专注力更好。
+
+![打开链接](https://imgur.com/dlPhYSm.png "")
+
+我们在开发过程中遇到路径需要打开，也可以直接粘贴路径到 HapiGo 中。你可以通过左右方向键切换，也可以直接搜索文件夹内的文件。
+
+![文件夹预览](https://imgur.com/Z3e8YpL.png)
+
+### 3️⃣ 剪贴板/翻译/OCR
+这 3 个工具已经有不少现有产品了，所以我们不期待这 3 项功能与其他产品有颠覆性的超越，只希望帮小屏幕用户减小几个菜单栏图标。
+剪贴板提供列表视图和卡片视图，方便文字型和图片型用户预览内容。此外，顺序粘贴、拖拽粘贴、编辑文本、多选合并、置顶窗口、快捷键操作等常见功能也都具备。Snippet 也已经在开发计划中，不久将与大家见面。
+
+![剪贴板](https://imgur.com/74tThrb.png "")
+
+OCR 支持多语言识别、支持二维码，公式识别近期支持。翻译提供选词翻译、截图翻译、输入翻译。翻译服务支持：Google、DeepL、有道、腾讯、百度、彩云小译等，目前下载的用户在 4 月 1 日前都可以免费使用。
+![翻译](https://imgur.com/xW0vyBl.png)
+
+### 4️⃣ 多样的第三方对接
+虽然我们没有像其他启动器一样有开放的插件/扩展平台，但是我们依然不断的添加一些大家喜闻乐见的工具和应用对接。比如：Unix 时间戳转换、IP 查询、备忘录对接、Bear 对接。当然，我们也对接了 V2EX。大家可以直接从 HapiGo 搜索 V 站的内容，也可以预览今天的热搜。
+
+![V2EX 对接](https://imgur.com/61DtwOl.png "V2EX 对接")
+
+![IP 查询](https://imgur.com/90W5dLL.png)
+
+![Kill Process](https://imgur.com/wK9H5kQ.png "")
+
+如果大家愿意给我们提供试用意见和反馈，欢迎来我们QQ反馈群（577036563）交流。这里每 2 周左右会发预览版，有建设性的意见我们也会积极采纳，有福利也会优先考虑反馈群的用户。
